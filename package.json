@@ -1,0 +1,15 @@
+{
+  "title": "Upload test",
+  "name": "upload-test",
+  "version": "0.0.1",
+  "description": "A basic upload by first wait a window",
+  "main": "index.js",
+  "author": "",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "upload"
+  ]
+}
